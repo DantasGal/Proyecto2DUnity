@@ -7,7 +7,7 @@ public class Movimiento : MonoBehaviour
 {
     public float x=0.05f;
     public float y=0.05f;
-    public float salto;
+    // No funciona p'ancho
     public float marcador;
     public int puntos = 0;
     public int vidas = 3;
